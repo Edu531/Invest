@@ -1,0 +1,21 @@
+th, td {
+    text-align: left;
+    font-size: medium;
+}
+.selected {
+    font-size: 500px;
+    font-weight: bold;
+}
+h2 {
+    font-size: 28px;
+    text-align: center;
+}
+body {
+    display: flex;
+    flex-direction: column;
+}
+h3 {
+    padding-top: 20px;
+    padding-bottom: 8px;
+    font-size: 35px;
+}

@@ -1,0 +1,2018 @@
+[
+    {
+        "nome": "3 R Petroleum",
+        "id": "RRRP3"
+    },
+    {
+        "nome": "Aco Altona",
+        "id": "EALT3"
+    },
+    {
+        "nome": "Aco Altona",
+        "id": "EALT4"
+    },
+    {
+        "nome": "Advanced Dh",
+        "id": "ADHM3"
+    },
+    {
+        "nome": "Aeris",
+        "id": "AERI3"
+    },
+    {
+        "nome": "Aes Brasil",
+        "id": "AESB3"
+    },
+    {
+        "nome": "Aes Tiete E",
+        "id": "TIET11"
+    },
+    {
+        "nome": "Aes Tiete E",
+        "id": "TIET3"
+    },
+    {
+        "nome": "Aes Tiete E",
+        "id": "TIET4"
+    },
+    {
+        "nome": "Afluente T",
+        "id": "AFLT3"
+    },
+    {
+        "nome": "Alfa Consorc",
+        "id": "BRGE11"
+    },
+    {
+        "nome": "Alfa Consorc",
+        "id": "BRGE12"
+    },
+    {
+        "nome": "Alfa Consorc",
+        "id": "BRGE3"
+    },
+    {
+        "nome": "Alfa Consorc",
+        "id": "BRGE5"
+    },
+    {
+        "nome": "Alfa Consorc",
+        "id": "BRGE6"
+    },
+    {
+        "nome": "Alfa Consorc",
+        "id": "BRGE7"
+    },
+    {
+        "nome": "Alfa Consorc",
+        "id": "BRGE8"
+    },
+    {
+        "nome": "Alfa Financ",
+        "id": "CRIV3"
+    },
+    {
+        "nome": "Alfa Financ",
+        "id": "CRIV4"
+    },
+    {
+        "nome": "Alfa Holding",
+        "id": "RPAD3"
+    },
+    {
+        "nome": "Alfa Holding",
+        "id": "RPAD5"
+    },
+    {
+        "nome": "Alfa Holding",
+        "id": "RPAD6"
+    },
+    {
+        "nome": "Alfa Invest",
+        "id": "BRIV3"
+    },
+    {
+        "nome": "Alfa Invest",
+        "id": "BRIV4"
+    },
+    {
+        "nome": "Alianscsonae",
+        "id": "ALSO3"
+    },
+    {
+        "nome": "Alianza Trust Renda Imobiliaria Fundo Investimento Imobiliario",
+        "id": "ALZR11"
+    },
+    {
+        "nome": "Alliar",
+        "id": "AALR3"
+    },
+    {
+        "nome": "Allied",
+        "id": "ALLD3"
+    },
+    {
+        "nome": "Alpargatas",
+        "id": "ALPA3"
+    },
+    {
+        "nome": "Alpargatas",
+        "id": "ALPA4"
+    },
+    {
+        "nome": "Alper S.A.",
+        "id": "APER3"
+    },
+    {
+        "nome": "Alphabet DRN A",
+        "id": "GOGL34"
+    },
+    {
+        "nome": "Alphaville",
+        "id": "AVLL3"
+    },
+    {
+        "nome": "Alupar",
+        "id": "ALUP11"
+    },
+    {
+        "nome": "Alupar",
+        "id": "ALUP3"
+    },
+    {
+        "nome": "Alupar",
+        "id": "ALUP4"
+    },
+    {
+        "nome": "Amazonia",
+        "id": "BAZA3"
+    },
+    {
+        "nome": "Ambev S.A.",
+        "id": "ABEV3"
+    },
+    {
+        "nome": "Ambipar",
+        "id": "AMBP3"
+    },
+    {
+        "nome": "Ampla Energ",
+        "id": "CBEE3"
+    },
+    {
+        "nome": "Anima",
+        "id": "ANIM3"
+    },
+    {
+        "nome": "Arezzo Indústria e Comércio S.A.",
+        "id": "ARZZ3"
+    },
+    {
+        "nome": "Assai",
+        "id": "ASAI3"
+    },
+    {
+        "nome": "AtmaSA",
+        "id": "ATMP3"
+    },
+    {
+        "nome": "Atompar",
+        "id": "ATOM3"
+    },
+    {
+        "nome": "Aura 360",
+        "id": "AURA33"
+    },
+    {
+        "nome": "Azevedo",
+        "id": "AZEV3"
+    },
+    {
+        "nome": "Azevedo",
+        "id": "AZEV4"
+    },
+    {
+        "nome": "Azul S.A.",
+        "id": "AZUL4"
+    },
+    {
+        "nome": "B2W - Companhia Digital",
+        "id": "BTOW3"
+    },
+    {
+        "nome": "B3 S.A. - Brasil, Bolsa, Balcão",
+        "id": "B3SA3"
+    },
+    {
+        "nome": "Bahema",
+        "id": "BAHI3"
+    },
+    {
+        "nome": "Banco Bmg",
+        "id": "BMGB4"
+    },
+    {
+        "nome": "Banco Bradesco S.A.",
+        "id": "BBDC3"
+    },
+    {
+        "nome": "Banco Bradesco S.A.",
+        "id": "BBDC4"
+    },
+    {
+        "nome": "Banco do Brasil S.A.",
+        "id": "BBAS3"
+    },
+    {
+        "nome": "Banco do Estado do Rio Grande do Sul S.A.",
+        "id": "BRSR6"
+    },
+    {
+        "nome": "Banco Inter",
+        "id": "BIDI11"
+    },
+    {
+        "nome": "Banco Inter S.A.",
+        "id": "BIDI4"
+    },
+    {
+        "nome": "Banco Inter S.A.",
+        "id": "BIDI3"
+    },
+    {
+        "nome": "Banco Modal",
+        "id": "MODL4"
+    },
+    {
+        "nome": "Banco Modal",
+        "id": "MODL11"
+    },
+    {
+        "nome": "Banco Modal",
+        "id": "MODL3"
+    },
+    {
+        "nome": "Banco Pan",
+        "id": "BPAN4"
+    },
+    {
+        "nome": "Banco Santander (Brasil) S.A.",
+        "id": "SANB3"
+    },
+    {
+        "nome": "Banco Santander (Brasil) S.A.",
+        "id": "SANB11"
+    },
+    {
+        "nome": "Banese",
+        "id": "BGIP3"
+    },
+    {
+        "nome": "Banese",
+        "id": "BGIP4"
+    },
+    {
+        "nome": "Banestes",
+        "id": "BEES3"
+    },
+    {
+        "nome": "Banestes",
+        "id": "BEES4"
+    },
+    {
+        "nome": "Banpara",
+        "id": "BPAR3"
+    },
+    {
+        "nome": "Banrisul",
+        "id": "BRSR3"
+    },
+    {
+        "nome": "Banrisul",
+        "id": "BRSR5"
+    },
+    {
+        "nome": "Bardella",
+        "id": "BDLL3"
+    },
+    {
+        "nome": "Bardella",
+        "id": "BDLL4"
+    },
+    {
+        "nome": "Battistella",
+        "id": "BTTL3"
+    },
+    {
+        "nome": "Baumer",
+        "id": "BALM3"
+    },
+    {
+        "nome": "Baumer",
+        "id": "BALM4"
+    },
+    {
+        "nome": "BB Progressivo II Fundo de Investimento Imobiliario - FII",
+        "id": "BBPO11"
+    },
+    {
+        "nome": "BB Seguridade Participações S.A.",
+        "id": "BBSE3"
+    },
+    {
+        "nome": "Bemobi Tech",
+        "id": "BMOB3"
+    },
+    {
+        "nome": "Bic Monark",
+        "id": "BMKS3"
+    },
+    {
+        "nome": "Biomm",
+        "id": "BIOM3"
+    },
+    {
+        "nome": "Biosev",
+        "id": "BSEV3"
+    },
+    {
+        "nome": "Bk Brasil",
+        "id": "BKBR3"
+    },
+    {
+        "nome": "Blau",
+        "id": "BLAU3"
+    },
+    {
+        "nome": "Boa Safra",
+        "id": "SOJA3"
+    },
+    {
+        "nome": "Boa Vista",
+        "id": "BOAS3"
+    },
+    {
+        "nome": "Bombril",
+        "id": "BOBR3"
+    },
+    {
+        "nome": "Bombril",
+        "id": "BOBR4"
+    },
+    {
+        "nome": "Br Brokers",
+        "id": "BBRK3"
+    },
+    {
+        "nome": "BR Malls Participações S.A.",
+        "id": "BRML3"
+    },
+    {
+        "nome": "Br Propert",
+        "id": "BRPR3"
+    },
+    {
+        "nome": "Bradespar S.A.",
+        "id": "BRAP4"
+    },
+    {
+        "nome": "Bradespar S.A.",
+        "id": "BRAP3"
+    },
+    {
+        "nome": "Brasilagro",
+        "id": "AGRO3"
+    },
+    {
+        "nome": "Braskem",
+        "id": "BRKM6"
+    },
+    {
+        "nome": "Braskem S.A.",
+        "id": "BRKM5"
+    },
+    {
+        "nome": "Braskem S.A.",
+        "id": "BRKM3"
+    },
+    {
+        "nome": "Brb Banco",
+        "id": "BSLI3"
+    },
+    {
+        "nome": "Brb Banco",
+        "id": "BSLI4"
+    },
+    {
+        "nome": "BRF S.A.",
+        "id": "BRFS3"
+    },
+    {
+        "nome": "Btgp Banco",
+        "id": "BPAC11"
+    },
+    {
+        "nome": "Btgp Banco",
+        "id": "BPAC3"
+    },
+    {
+        "nome": "Btgp Banco",
+        "id": "BPAC5"
+    },
+    {
+        "nome": "Cambuci",
+        "id": "CAMB3"
+    },
+    {
+        "nome": "Camil Alimentos S.A.",
+        "id": "CAML3"
+    },
+    {
+        "nome": "Carrefour Br",
+        "id": "CRFB3"
+    },
+    {
+        "nome": "CaSAn",
+        "id": "CASN"
+    },
+    {
+        "nome": "CaSAn",
+        "id": "CASN3"
+    },
+    {
+        "nome": "CaSAn",
+        "id": "CASN4"
+    },
+    {
+        "nome": "CCR S.A.",
+        "id": "CCRO3"
+    },
+    {
+        "nome": "Cea Modas",
+        "id": "CEAB3"
+    },
+    {
+        "nome": "Ceb",
+        "id": "CEBR3"
+    },
+    {
+        "nome": "Ceb",
+        "id": "CEBR5"
+    },
+    {
+        "nome": "Ceb",
+        "id": "CEBR6"
+    },
+    {
+        "nome": "Cedro",
+        "id": "CEDO3"
+    },
+    {
+        "nome": "Cedro",
+        "id": "CEDO4"
+    },
+    {
+        "nome": "Ceee D",
+        "id": "CEED3"
+    },
+    {
+        "nome": "Ceee D",
+        "id": "CEED4"
+    },
+    {
+        "nome": "Ceee Gt",
+        "id": "EEEL3"
+    },
+    {
+        "nome": "Ceee Gt",
+        "id": "EEEL4"
+    },
+    {
+        "nome": "Ceg",
+        "id": "CEGR3"
+    },
+    {
+        "nome": "Celesc",
+        "id": "CLSC3"
+    },
+    {
+        "nome": "Celesc",
+        "id": "CLSC4"
+    },
+    {
+        "nome": "Celgpar",
+        "id": "GPAR3"
+    },
+    {
+        "nome": "Celpe",
+        "id": "CEPE3"
+    },
+    {
+        "nome": "Celpe",
+        "id": "CEPE5"
+    },
+    {
+        "nome": "Celpe",
+        "id": "CEPE6"
+    },
+    {
+        "nome": "Cemepe",
+        "id": "MAPT3"
+    },
+    {
+        "nome": "Cemepe",
+        "id": "MAPT4"
+    },
+    {
+        "nome": "Centauro",
+        "id": "CNTO3"
+    },
+    {
+        "nome": "Centrais Elétricas Brasileiras S.A. - Eletrobras",
+        "id": "ELET3"
+    },
+    {
+        "nome": "Centrais Elétricas Brasileiras S.A. - Eletrobras",
+        "id": "ELET6"
+    },
+    {
+        "nome": "Cesp",
+        "id": "CESP3"
+    },
+    {
+        "nome": "Cesp",
+        "id": "CESP5"
+    },
+    {
+        "nome": "Cesp",
+        "id": "CESP6"
+    },
+    {
+        "nome": "Cia. Hering",
+        "id": "HGTX3"
+    },
+    {
+        "nome": "Cielo S.A.",
+        "id": "CIEL3"
+    },
+    {
+        "nome": "Coelba",
+        "id": "CEEB3"
+    },
+    {
+        "nome": "Coelba",
+        "id": "CEEB5"
+    },
+    {
+        "nome": "Coelce",
+        "id": "COCE3"
+    },
+    {
+        "nome": "Coelce",
+        "id": "COCE5"
+    },
+    {
+        "nome": "Cogna Educação S.A.",
+        "id": "COGN3"
+    },
+    {
+        "nome": "Comgas",
+        "id": "CGAS3"
+    },
+    {
+        "nome": "Comgas",
+        "id": "CGAS5"
+    },
+    {
+        "nome": "Companhia de Locação das Américas",
+        "id": "LCAM3"
+    },
+    {
+        "nome": "Companhia de Saneamento Básico do Estado de São Paulo - SABESP",
+        "id": "SBSP3"
+    },
+    {
+        "nome": "Companhia Energética de Minas Gerais",
+        "id": "CMIG3"
+    },
+    {
+        "nome": "Companhia Energética de Minas Gerais",
+        "id": "CMIG4"
+    },
+    {
+        "nome": "Companhia Paranaense de Energia - COPEL",
+        "id": "CPLE6"
+    },
+    {
+        "nome": "Companhia Paranaense de Energia - COPEL",
+        "id": "CPLE3"
+    },
+    {
+        "nome": "Companhia Siderúrgica Nacional",
+        "id": "CSNA3"
+    },
+    {
+        "nome": "Const A Lind",
+        "id": "CALI3"
+    },
+    {
+        "nome": "Const A Lind",
+        "id": "CALI4"
+    },
+    {
+        "nome": "CopaSA",
+        "id": "CSMG3"
+    },
+    {
+        "nome": "Copel",
+        "id": "CPLE5"
+    },
+    {
+        "nome": "Cor Ribeiro",
+        "id": "CORR4"
+    },
+    {
+        "nome": "CoSAn Log",
+        "id": "RLOG3"
+    },
+    {
+        "nome": "Cosan S.A.",
+        "id": "CSAN3"
+    },
+    {
+        "nome": "Cosern",
+        "id": "CSRN3"
+    },
+    {
+        "nome": "Cosern",
+        "id": "CSRN5"
+    },
+    {
+        "nome": "Cosern",
+        "id": "CSRN6"
+    },
+    {
+        "nome": "Coteminas",
+        "id": "CTNM3"
+    },
+    {
+        "nome": "Coteminas",
+        "id": "CTNM4"
+    },
+    {
+        "nome": "CPFL Energia S.A.",
+        "id": "CPFE3"
+    },
+    {
+        "nome": "Cr2",
+        "id": "CRDE3"
+    },
+    {
+        "nome": "Cristal",
+        "id": "CRPG3"
+    },
+    {
+        "nome": "Cristal",
+        "id": "CRPG5"
+    },
+    {
+        "nome": "Cristal",
+        "id": "CRPG6"
+    },
+    {
+        "nome": "Cruzeiro Edu",
+        "id": "CSED3"
+    },
+    {
+        "nome": "CSHG Logistica - Fundo De Investimento Imobiliario",
+        "id": "HGLG11"
+    },
+    {
+        "nome": "Csnmineracao",
+        "id": "CMIN3"
+    },
+    {
+        "nome": "Csu Cardsyst",
+        "id": "CARD3"
+    },
+    {
+        "nome": "Cury S/A",
+        "id": "CURY3"
+    },
+    {
+        "nome": "CVC Brasil Operadora e Agência de Viagens S.A.",
+        "id": "CVCB3"
+    },
+    {
+        "nome": "Cyre Com Ccp",
+        "id": "CCPR3"
+    },
+    {
+        "nome": "Cyrela Brazil Realty S.A. Empreendimentos e Participações",
+        "id": "CYRE3"
+    },
+    {
+        "nome": "D1000 Vfarma",
+        "id": "DMVF3"
+    },
+    {
+        "nome": "DaSA",
+        "id": "DASA3"
+    },
+    {
+        "nome": "Dimed",
+        "id": "PNVL3"
+    },
+    {
+        "nome": "Dimed",
+        "id": "PNVL4"
+    },
+    {
+        "nome": "Direcional",
+        "id": "DIRR3"
+    },
+    {
+        "nome": "Dohler",
+        "id": "DOHL3"
+    },
+    {
+        "nome": "Dohler",
+        "id": "DOHL4"
+    },
+    {
+        "nome": "Dommo",
+        "id": "DMMO3"
+    },
+    {
+        "nome": "Dtcom Direct",
+        "id": "DTCY3"
+    },
+    {
+        "nome": "Duratex",
+        "id": "DTEX3"
+    },
+    {
+        "nome": "EcoRodovias Infraestrutura e Logística S.A.",
+        "id": "ECOR3"
+    },
+    {
+        "nome": "EDP - Energias do Brasil S.A.",
+        "id": "ENBR3"
+    },
+    {
+        "nome": "Elektro",
+        "id": "EKTR3"
+    },
+    {
+        "nome": "Elektro",
+        "id": "EKTR4"
+    },
+    {
+        "nome": "Eletrobras",
+        "id": "ELET5"
+    },
+    {
+        "nome": "Eletromidia",
+        "id": "ELMD3"
+    },
+    {
+        "nome": "Eletropar",
+        "id": "LIPR3"
+    },
+    {
+        "nome": "Emae",
+        "id": "EMAE3"
+    },
+    {
+        "nome": "Emae",
+        "id": "EMAE4"
+    },
+    {
+        "nome": "Embraer S.A.",
+        "id": "EMBR3"
+    },
+    {
+        "nome": "Enauta Part",
+        "id": "ENAT3"
+    },
+    {
+        "nome": "Encorpar",
+        "id": "ECPR3"
+    },
+    {
+        "nome": "Encorpar",
+        "id": "ECPR4"
+    },
+    {
+        "nome": "EnergiSA",
+        "id": "ENGI"
+    },
+    {
+        "nome": "EnergiSA",
+        "id": "ENGI11"
+    },
+    {
+        "nome": "EnergiSA",
+        "id": "ENGI3"
+    },
+    {
+        "nome": "EnergiSA",
+        "id": "ENGI4"
+    },
+    {
+        "nome": "EnergiSA Mt",
+        "id": "ENMT3"
+    },
+    {
+        "nome": "EnergiSA Mt",
+        "id": "ENMT4"
+    },
+    {
+        "nome": "Eneva",
+        "id": "ENEV3"
+    },
+    {
+        "nome": "Engie Brasil Energia S.A.",
+        "id": "EGIE3"
+    },
+    {
+        "nome": "Enjoei",
+        "id": "ENJU3"
+    },
+    {
+        "nome": "Eqtl Para",
+        "id": "EQPA3"
+    },
+    {
+        "nome": "Eqtl Para",
+        "id": "EQPA5"
+    },
+    {
+        "nome": "Eqtl Para",
+        "id": "EQPA6"
+    },
+    {
+        "nome": "Eqtl Para",
+        "id": "EQPA7"
+    },
+    {
+        "nome": "Equatorial Energia S.A.",
+        "id": "EQTL3"
+    },
+    {
+        "nome": "Espacolaser",
+        "id": "ESPA3"
+    },
+    {
+        "nome": "Estácio Participações S.A.",
+        "id": "YDUQ3"
+    },
+    {
+        "nome": "Estapar",
+        "id": "ALPK3"
+    },
+    {
+        "nome": "Estrela",
+        "id": "ESTR3"
+    },
+    {
+        "nome": "Estrela",
+        "id": "ESTR4"
+    },
+    {
+        "nome": "Eternit",
+        "id": "ETER3"
+    },
+    {
+        "nome": "Eucatex",
+        "id": "EUCA3"
+    },
+    {
+        "nome": "Eucatex",
+        "id": "EUCA4"
+    },
+    {
+        "nome": "Even",
+        "id": "EVEN3"
+    },
+    {
+        "nome": "Excelsior",
+        "id": "BAUH4"
+    },
+    {
+        "nome": "Eztec",
+        "id": "EZTC3"
+    },
+    {
+        "nome": "FD Invest Imob Hotel Maxinvest",
+        "id": "HTMX11"
+    },
+    {
+        "nome": "Fer Heringer",
+        "id": "FHER3"
+    },
+    {
+        "nome": "FerbaSA",
+        "id": "FESA3"
+    },
+    {
+        "nome": "FerbaSA",
+        "id": "FESA4"
+    },
+    {
+        "nome": "Fleury S.A.",
+        "id": "FLRY3"
+    },
+    {
+        "nome": "Focus On",
+        "id": "POWE3"
+    },
+    {
+        "nome": "Fras Le",
+        "id": "FRAS3"
+    },
+    {
+        "nome": "Fundo de Investimento Imobiliario - FII Brasil Plural Absoluto Fundo de Fundos",
+        "id": "BPFF11"
+    },
+    {
+        "nome": "Fundo Investimento Imobiliario Rbr Properties Fii",
+        "id": "RBRP11"
+    },
+    {
+        "nome": "GafiSA",
+        "id": "GFSA3"
+    },
+    {
+        "nome": "Generalshopp",
+        "id": "GSHP3"
+    },
+    {
+        "nome": "Ger Paranap",
+        "id": "GEPA3"
+    },
+    {
+        "nome": "Ger Paranap",
+        "id": "GEPA4"
+    },
+    {
+        "nome": "Gerdau Met",
+        "id": "GOAU3"
+    },
+    {
+        "nome": "Gerdau S.A.",
+        "id": "GGBR3"
+    },
+    {
+        "nome": "Gerdau S.A.",
+        "id": "GGBR4"
+    },
+    {
+        "nome": "Gol Linhas Aéreas Inteligentes S.A.",
+        "id": "GOLL4"
+    },
+    {
+        "nome": "Gp Invest",
+        "id": "GPIV33"
+    },
+    {
+        "nome": "GPA Companhia Brasileira de Distribuição",
+        "id": "PCAR3"
+    },
+    {
+        "nome": "Gpc Part",
+        "id": "GPCP3"
+    },
+    {
+        "nome": "Grazziotin",
+        "id": "CGRA3"
+    },
+    {
+        "nome": "Grazziotin",
+        "id": "CGRA4"
+    },
+    {
+        "nome": "Grendene S.A.",
+        "id": "GRND3"
+    },
+    {
+        "nome": "Grupo Mateus S.A.",
+        "id": "GMAT3"
+    },
+    {
+        "nome": "Grupo Soma",
+        "id": "SOMA3"
+    },
+    {
+        "nome": "Guararapes",
+        "id": "GUAR3"
+    },
+    {
+        "nome": "Habitasul",
+        "id": "HBTS5"
+    },
+    {
+        "nome": "Haga S/A",
+        "id": "HAGA3"
+    },
+    {
+        "nome": "Haga S/A",
+        "id": "HAGA4"
+    },
+    {
+        "nome": "Hapvida",
+        "id": "HAPV3"
+    },
+    {
+        "nome": "Hbr Realty",
+        "id": "HBRE3"
+    },
+    {
+        "nome": "HEDGE Brasil Shopping Fundo de Investimento Imobiliario",
+        "id": "HGBS11"
+    },
+    {
+        "nome": "Helbor Empreendimentos S.A.",
+        "id": "HBOR3"
+    },
+    {
+        "nome": "Hercules",
+        "id": "HETA3"
+    },
+    {
+        "nome": "Hercules",
+        "id": "HETA4"
+    },
+    {
+        "nome": "Hidrovias",
+        "id": "HBSA3"
+    },
+    {
+        "nome": "Hoteis Othon",
+        "id": "HOOT4"
+    },
+    {
+        "nome": "Hypera S.A.",
+        "id": "HYPE3"
+    },
+    {
+        "nome": "Igb S/A",
+        "id": "IGBR3"
+    },
+    {
+        "nome": "Iguatemi Empresa de Shopping Centers S.A.",
+        "id": "IGTA3"
+    },
+    {
+        "nome": "Ihpardini",
+        "id": "PARD3"
+    },
+    {
+        "nome": "Inds Romi",
+        "id": "ROMI3"
+    },
+    {
+        "nome": "Indusval",
+        "id": "IDVL3"
+    },
+    {
+        "nome": "Indusval",
+        "id": "IDVL4"
+    },
+    {
+        "nome": "Inepar",
+        "id": "INEP3"
+    },
+    {
+        "nome": "Inepar",
+        "id": "INEP4"
+    },
+    {
+        "nome": "Infracomm",
+        "id": "IFCM3"
+    },
+    {
+        "nome": "Intelbras",
+        "id": "INTB3"
+    },
+    {
+        "nome": "Intermedica",
+        "id": "GNDI3"
+    },
+    {
+        "nome": "International Meal Company Alimentacao S.A.",
+        "id": "MEAL3"
+    },
+    {
+        "nome": "Iochpe-Maxion S.A.",
+        "id": "MYPK3"
+    },
+    {
+        "nome": "Irani",
+        "id": "RANI3"
+    },
+    {
+        "nome": "Irani",
+        "id": "RANI4"
+    },
+    {
+        "nome": "IRB-Brasil Resseguros S.A.",
+        "id": "IRBR3"
+    },
+    {
+        "nome": "iShares Ibovespa Fundo de Índice ETF",
+        "id": "BOVA11"
+    },
+    {
+        "nome": "iShares S&P 500 Fundo de Investimento - Investimento No Exterior",
+        "id": "IVVB11"
+    },
+    {
+        "nome": "Itaú Unibanco Holding S.A.",
+        "id": "ITUB4"
+    },
+    {
+        "nome": "Itaú Unibanco Holding S.A.",
+        "id": "ITUB3"
+    },
+    {
+        "nome": "Itaúsa - Investimentos Itaú S.A.",
+        "id": "ITSA4"
+    },
+    {
+        "nome": "Itausa - Investimentos Itau S.A.",
+        "id": "ITSA3"
+    },
+    {
+        "nome": "J B Duarte",
+        "id": "JBDU3"
+    },
+    {
+        "nome": "J B Duarte",
+        "id": "JBDU4"
+    },
+    {
+        "nome": "Jallesmachad",
+        "id": "JALL3"
+    },
+    {
+        "nome": "JBS S.A.",
+        "id": "JBSS3"
+    },
+    {
+        "nome": "JD COM DRN",
+        "id": "JDCO34"
+    },
+    {
+        "nome": "JereisSAti",
+        "id": "JPSA3"
+    },
+    {
+        "nome": "JHSF Participacoes S.A.",
+        "id": "JHSF3"
+    },
+    {
+        "nome": "Joao Fortes",
+        "id": "JFEN3"
+    },
+    {
+        "nome": "JoSApar",
+        "id": "JOPA3"
+    },
+    {
+        "nome": "JoSApar",
+        "id": "JOPA4"
+    },
+    {
+        "nome": "Karsten",
+        "id": "CTKA3"
+    },
+    {
+        "nome": "Karsten",
+        "id": "CTKA4"
+    },
+    {
+        "nome": "Kepler Weber",
+        "id": "KEPL3"
+    },
+    {
+        "nome": "KINEA Renda Imobiliária - Fundo de Investimento Imobiliário",
+        "id": "KNRI11"
+    },
+    {
+        "nome": "Klabin S/A",
+        "id": "KLBN3"
+    },
+    {
+        "nome": "Klabin S/A",
+        "id": "KLBN4"
+    },
+    {
+        "nome": "KLABIN S/A UNT N2",
+        "id": "KLBN11"
+    },
+    {
+        "nome": "Lavvi",
+        "id": "LAVV3"
+    },
+    {
+        "nome": "Le Lis Blanc",
+        "id": "LLIS3"
+    },
+    {
+        "nome": "Light S/A",
+        "id": "LIGT3"
+    },
+    {
+        "nome": "Linx",
+        "id": "LINX3"
+    },
+    {
+        "nome": "Localiza Rent a Car S.A.",
+        "id": "RENT3"
+    },
+    {
+        "nome": "Locaweb",
+        "id": "LWSA3"
+    },
+    {
+        "nome": "Log Com Prop",
+        "id": "LOGG3"
+    },
+    {
+        "nome": "Log In",
+        "id": "LOGN3"
+    },
+    {
+        "nome": "Lojas Americ",
+        "id": "LAME3"
+    },
+    {
+        "nome": "Lojas Americanas S.A.",
+        "id": "LAME4"
+    },
+    {
+        "nome": "Lojas MariSA",
+        "id": "AMAR3"
+    },
+    {
+        "nome": "Lojas Renner S.A.",
+        "id": "LREN3"
+    },
+    {
+        "nome": "Lopes Brasil",
+        "id": "LPSB3"
+    },
+    {
+        "nome": "Lupatech",
+        "id": "LUPA3"
+    },
+    {
+        "nome": "M. Dias Branco S.A. Indústria e Comércio de Alimentos",
+        "id": "MDIA3"
+    },
+    {
+        "nome": "Magazine Luiza S.A.",
+        "id": "MGLU3"
+    },
+    {
+        "nome": "Mangels Indl",
+        "id": "MGEL4"
+    },
+    {
+        "nome": "Marcopolo",
+        "id": "POMO3"
+    },
+    {
+        "nome": "Marcopolo",
+        "id": "POMO4"
+    },
+    {
+        "nome": "Marfrig Global Foods S.A.",
+        "id": "MRFG3"
+    },
+    {
+        "nome": "Maxi Renda Fundo De Investimento Imobiliaro - FII",
+        "id": "MXRF11"
+    },
+    {
+        "nome": "Melhor Sp",
+        "id": "MSPA3"
+    },
+    {
+        "nome": "Melhor Sp",
+        "id": "MSPA4"
+    },
+    {
+        "nome": "Meliuz",
+        "id": "CASH3"
+    },
+    {
+        "nome": "Melnick",
+        "id": "MELK3"
+    },
+    {
+        "nome": "Merc Brasil",
+        "id": "BMEB3"
+    },
+    {
+        "nome": "Merc Brasil",
+        "id": "BMEB4"
+    },
+    {
+        "nome": "Merc Financ",
+        "id": "MERC3"
+    },
+    {
+        "nome": "Merc Financ",
+        "id": "MERC4"
+    },
+    {
+        "nome": "Merc Invest",
+        "id": "BMIN3"
+    },
+    {
+        "nome": "Merc Invest",
+        "id": "BMIN4"
+    },
+    {
+        "nome": "Merito Desenvolvimento Imobiliario I FII - Fundo de Investimento Imobiliario",
+        "id": "MFII11"
+    },
+    {
+        "nome": "Metal Iguacu",
+        "id": "MTIG4"
+    },
+    {
+        "nome": "Metal Leve",
+        "id": "LEVE3"
+    },
+    {
+        "nome": "Metalfrio",
+        "id": "FRIO3"
+    },
+    {
+        "nome": "Metalurgica Gerdau S.A.",
+        "id": "GOAU4"
+    },
+    {
+        "nome": "MetiSA",
+        "id": "MTSA3"
+    },
+    {
+        "nome": "MetiSA",
+        "id": "MTSA4"
+    },
+    {
+        "nome": "Mills Estruturas e Servicos de Engenharia S.A.",
+        "id": "MILS3"
+    },
+    {
+        "nome": "Minerva",
+        "id": "BEEF"
+    },
+    {
+        "nome": "Minerva",
+        "id": "BEEF3"
+    },
+    {
+        "nome": "Minupar",
+        "id": "MNPR3"
+    },
+    {
+        "nome": "Mitre Realty",
+        "id": "MTRE3"
+    },
+    {
+        "nome": "Mmx Miner",
+        "id": "MMXM11"
+    },
+    {
+        "nome": "Mmx Miner",
+        "id": "MMXM3"
+    },
+    {
+        "nome": "Mobly",
+        "id": "MBLY3"
+    },
+    {
+        "nome": "Mont Aranha",
+        "id": "MOAR3"
+    },
+    {
+        "nome": "Mosaico",
+        "id": "MOSI3"
+    },
+    {
+        "nome": "Moura Dubeux",
+        "id": "MDNE3"
+    },
+    {
+        "nome": "Movida Participacoes S.A.",
+        "id": "MOVI3"
+    },
+    {
+        "nome": "MRV Engenharia e Participações S.A.",
+        "id": "MRVE3"
+    },
+    {
+        "nome": "Multiplan Empreendimentos Imobiliários S.A.",
+        "id": "MULT3"
+    },
+    {
+        "nome": "Mundial",
+        "id": "MNDL3"
+    },
+    {
+        "nome": "Natura &Co Holding S.A.",
+        "id": "NTCO3"
+    },
+    {
+        "nome": "Natura Cosméticos S.A.",
+        "id": "NATU3"
+    },
+    {
+        "nome": "Neoenergia",
+        "id": "NEOE3"
+    },
+    {
+        "nome": "Neogrid",
+        "id": "NGRD3"
+    },
+    {
+        "nome": "Nord Brasil",
+        "id": "BNBR3"
+    },
+    {
+        "nome": "Nordon Met",
+        "id": "NORD3"
+    },
+    {
+        "nome": "Nutriplant",
+        "id": "NUTR3"
+    },
+    {
+        "nome": "Oceanpact",
+        "id": "OPCT3"
+    },
+    {
+        "nome": "Odontoprev",
+        "id": "ODPV3"
+    },
+    {
+        "nome": "Oi",
+        "id": "OIBR4"
+    },
+    {
+        "nome": "Oi S.A.",
+        "id": "OIBR3"
+    },
+    {
+        "nome": "Omega Ger",
+        "id": "OMGE3"
+    },
+    {
+        "nome": "Orizon",
+        "id": "ORVR3"
+    },
+    {
+        "nome": "Osx Brasil",
+        "id": "OSXB3"
+    },
+    {
+        "nome": "Ourofino S/A",
+        "id": "OFSA3"
+    },
+    {
+        "nome": "Padtec",
+        "id": "PDTC3"
+    },
+    {
+        "nome": "Pague Menos",
+        "id": "PGMN3"
+    },
+    {
+        "nome": "Panatlantica",
+        "id": "PATI3"
+    },
+    {
+        "nome": "Panatlantica",
+        "id": "PATI4"
+    },
+    {
+        "nome": "Par Al Bahia",
+        "id": "PEAB3"
+    },
+    {
+        "nome": "Par Al Bahia",
+        "id": "PEAB4"
+    },
+    {
+        "nome": "Paranapanema",
+        "id": "PMAM3"
+    },
+    {
+        "nome": "Pdg Realt",
+        "id": "PDGR3"
+    },
+    {
+        "nome": "Pet Center Comércio e Participações S.A.",
+        "id": "PETZ3"
+    },
+    {
+        "nome": "Pet Manguinh",
+        "id": "RPMG3"
+    },
+    {
+        "nome": "Petrobras Distribuidora S.A.",
+        "id": "BRDT3"
+    },
+    {
+        "nome": "Petróleo Brasileiro S.A. - Petrobras",
+        "id": "PETR4"
+    },
+    {
+        "nome": "Petróleo Brasileiro S.A. - Petrobras",
+        "id": "PETR3"
+    },
+    {
+        "nome": "Petrorio",
+        "id": "PRIO3"
+    },
+    {
+        "nome": "Pettenati",
+        "id": "PTNT3"
+    },
+    {
+        "nome": "Pettenati",
+        "id": "PTNT4"
+    },
+    {
+        "nome": "Pine",
+        "id": "PINE4"
+    },
+    {
+        "nome": "Planoeplano",
+        "id": "PLPL3"
+    },
+    {
+        "nome": "Plascar Part",
+        "id": "PLAS3"
+    },
+    {
+        "nome": "Pomifrutas",
+        "id": "FRTA3"
+    },
+    {
+        "nome": "Porto Seguro S.A.",
+        "id": "PSSA3"
+    },
+    {
+        "nome": "Porto Vm",
+        "id": "PSVM11"
+    },
+    {
+        "nome": "Portobello",
+        "id": "PTBL3"
+    },
+    {
+        "nome": "Positivo Tec",
+        "id": "POSI3"
+    },
+    {
+        "nome": "Ppla",
+        "id": "PPLA11"
+    },
+    {
+        "nome": "Priner",
+        "id": "PRNR3"
+    },
+    {
+        "nome": "Profarma",
+        "id": "PFRM3"
+    },
+    {
+        "nome": "Qualicorp Consultoria e Corretora de Seguros S.A.",
+        "id": "QUAL3"
+    },
+    {
+        "nome": "Quero Quero",
+        "id": "LJQQ3"
+    },
+    {
+        "nome": "Raia Drogasil S.A.",
+        "id": "RADL3"
+    },
+    {
+        "nome": "Randon Part",
+        "id": "RAPT3"
+    },
+    {
+        "nome": "Randon Part",
+        "id": "RAPT4"
+    },
+    {
+        "nome": "Recrusul",
+        "id": "RCSL3"
+    },
+    {
+        "nome": "Recrusul",
+        "id": "RCSL4"
+    },
+    {
+        "nome": "Rede D Or",
+        "id": "RDOR3"
+    },
+    {
+        "nome": "Rede Energia",
+        "id": "REDE3"
+    },
+    {
+        "nome": "Renova",
+        "id": "RNEW11"
+    },
+    {
+        "nome": "Renova",
+        "id": "RNEW3"
+    },
+    {
+        "nome": "Renova",
+        "id": "RNEW4"
+    },
+    {
+        "nome": "Riosulense",
+        "id": "RSUL4"
+    },
+    {
+        "nome": "Rni",
+        "id": "RDNI3"
+    },
+    {
+        "nome": "Rossi Resid",
+        "id": "RSID3"
+    },
+    {
+        "nome": "Rumo S.A.",
+        "id": "RAIL3"
+    },
+    {
+        "nome": "Sanepar",
+        "id": "SAPR11"
+    },
+    {
+        "nome": "Sanepar",
+        "id": "SAPR3"
+    },
+    {
+        "nome": "Sanepar",
+        "id": "SAPR4"
+    },
+    {
+        "nome": "Sansuy",
+        "id": "SNSY3"
+    },
+    {
+        "nome": "Sansuy",
+        "id": "SNSY5"
+    },
+    {
+        "nome": "Sansuy",
+        "id": "SNSY6"
+    },
+    {
+        "nome": "Santander Br",
+        "id": "SANB4"
+    },
+    {
+        "nome": "Santanense",
+        "id": "CTSA3"
+    },
+    {
+        "nome": "Santanense",
+        "id": "CTSA4"
+    },
+    {
+        "nome": "Santos Brp",
+        "id": "STBP3"
+    },
+    {
+        "nome": "Sao Carlos",
+        "id": "SCAR3"
+    },
+    {
+        "nome": "Sao Martinho",
+        "id": "SMTO3"
+    },
+    {
+        "nome": "Saraiva Livr",
+        "id": "SLED3"
+    },
+    {
+        "nome": "Saraiva Livr",
+        "id": "SLED4"
+    },
+    {
+        "nome": "Schulz",
+        "id": "SHUL4"
+    },
+    {
+        "nome": "Seg Al Bahia",
+        "id": "CSAB3"
+    },
+    {
+        "nome": "Seg Al Bahia",
+        "id": "CSAB4"
+    },
+    {
+        "nome": "Sequoia Log",
+        "id": "SEQL3"
+    },
+    {
+        "nome": "Ser Educa",
+        "id": "SEER3"
+    },
+    {
+        "nome": "Simpar",
+        "id": "SIMH3"
+    },
+    {
+        "nome": "Sinqia S.A.",
+        "id": "SQIA3"
+    },
+    {
+        "nome": "Slc Agricola",
+        "id": "SLCE3"
+    },
+    {
+        "nome": "Smiles Fidelidade S.A.",
+        "id": "SMLS3"
+    },
+    {
+        "nome": "Sondotecnica",
+        "id": "SOND3"
+    },
+    {
+        "nome": "Sondotecnica",
+        "id": "SOND5"
+    },
+    {
+        "nome": "Sondotecnica",
+        "id": "SOND6"
+    },
+    {
+        "nome": "Springs",
+        "id": "SGPS3"
+    },
+    {
+        "nome": "Spturis",
+        "id": "AHEB3"
+    },
+    {
+        "nome": "Spturis",
+        "id": "AHEB5"
+    },
+    {
+        "nome": "Spturis",
+        "id": "AHEB6"
+    },
+    {
+        "nome": "Sul America",
+        "id": "SULA11"
+    },
+    {
+        "nome": "Sul America",
+        "id": "SULA3"
+    },
+    {
+        "nome": "Sul America",
+        "id": "SULA4"
+    },
+    {
+        "nome": "Suzano S.A.",
+        "id": "SUZB3"
+    },
+    {
+        "nome": "TaeSA",
+        "id": "TAEE3"
+    },
+    {
+        "nome": "TaeSA",
+        "id": "TAEE4"
+    },
+    {
+        "nome": "Taurus Armas",
+        "id": "TASA3"
+    },
+    {
+        "nome": "Taurus Armas S.A.",
+        "id": "TASA4"
+    },
+    {
+        "nome": "Technos",
+        "id": "TECN3"
+    },
+    {
+        "nome": "Tecnisa S.A.",
+        "id": "TCSA3"
+    },
+    {
+        "nome": "Tecnosolo",
+        "id": "TCNO3"
+    },
+    {
+        "nome": "Tecnosolo",
+        "id": "TCNO4"
+    },
+    {
+        "nome": "Tegma",
+        "id": "TGMA3"
+    },
+    {
+        "nome": "Teka",
+        "id": "TEKA3"
+    },
+    {
+        "nome": "Teka",
+        "id": "TEKA4"
+    },
+    {
+        "nome": "Tekno",
+        "id": "TKNO4"
+    },
+    {
+        "nome": "Telebras",
+        "id": "TELB3"
+    },
+    {
+        "nome": "Telebras",
+        "id": "TELB4"
+    },
+    {
+        "nome": "Telef Brasil",
+        "id": "VIVT3"
+    },
+    {
+        "nome": "Telefônica Brasil S.A.",
+        "id": "VIVT4"
+    },
+    {
+        "nome": "Tenda",
+        "id": "TEND3"
+    },
+    {
+        "nome": "Terra Santa",
+        "id": "TESA3"
+    },
+    {
+        "nome": "Tex Renaux",
+        "id": "TXRX3"
+    },
+    {
+        "nome": "TIM S.A.",
+        "id": "TIMS3"
+    },
+    {
+        "nome": "Time For Fun",
+        "id": "SHOW3"
+    },
+    {
+        "nome": "TOTVS S.A.",
+        "id": "TOTS3"
+    },
+    {
+        "nome": "Track Field",
+        "id": "TFCO4"
+    },
+    {
+        "nome": "Tran Paulist",
+        "id": "TRPL3"
+    },
+    {
+        "nome": "Tran Paulist",
+        "id": "TRPL4"
+    },
+    {
+        "nome": "Transmissora Aliança de Energia Elétrica S.A.",
+        "id": "TAEE11"
+    },
+    {
+        "nome": "TreviSA",
+        "id": "LUXM4"
+    },
+    {
+        "nome": "Trisul",
+        "id": "TRIS3"
+    },
+    {
+        "nome": "Triunfo Part",
+        "id": "TPIS3"
+    },
+    {
+        "nome": "Tupy",
+        "id": "TUPY3"
+    },
+    {
+        "nome": "Ultrapar Participações S.A.",
+        "id": "UGPA3"
+    },
+    {
+        "nome": "UnicaSA",
+        "id": "UCAS3"
+    },
+    {
+        "nome": "Unipar",
+        "id": "UNIP3"
+    },
+    {
+        "nome": "Unipar",
+        "id": "UNIP5"
+    },
+    {
+        "nome": "Unipar",
+        "id": "UNIP6"
+    },
+    {
+        "nome": "Usiminas",
+        "id": "USIM3"
+    },
+    {
+        "nome": "Usiminas",
+        "id": "USIM6"
+    },
+    {
+        "nome": "Usinas Siderúrgicas de Minas Gerais S.A.",
+        "id": "USIM5"
+    },
+    {
+        "nome": "Vale S.A.",
+        "id": "VALE3"
+    },
+    {
+        "nome": "Valid Solucoes S.A.",
+        "id": "VLID3"
+    },
+    {
+        "nome": "Vamos",
+        "id": "VAMO3"
+    },
+    {
+        "nome": "Via Varejo S.A.",
+        "id": "VVAR3"
+    },
+    {
+        "nome": "Vinci Logistica Fundo Investimento Imobiliario FII",
+        "id": "VILG11"
+    },
+    {
+        "nome": "Vivara Participacoes S.A.",
+        "id": "VIVA3"
+    },
+    {
+        "nome": "Viver",
+        "id": "VIVR3"
+    },
+    {
+        "nome": "Vulcabras",
+        "id": "VULC3"
+    },
+    {
+        "nome": "WEG S.A.",
+        "id": "WEGE3"
+    },
+    {
+        "nome": "Westwing",
+        "id": "WEST3"
+    },
+    {
+        "nome": "Wetzel S/A",
+        "id": "MWET3"
+    },
+    {
+        "nome": "Wetzel S/A",
+        "id": "MWET4"
+    },
+    {
+        "nome": "Whirlpool",
+        "id": "WHRL3"
+    },
+    {
+        "nome": "Whirlpool",
+        "id": "WHRL4"
+    },
+    {
+        "nome": "Wilson Sons",
+        "id": "WSON33"
+    },
+    {
+        "nome": "Wiz Solucoes e Corretagem de Seguros S.A.",
+        "id": "WIZS3"
+    },
+    {
+        "nome": "Wlm Ind Com",
+        "id": "WLMM3"
+    },
+    {
+        "nome": "Wlm Ind Com",
+        "id": "WLMM4"
+    }
+]

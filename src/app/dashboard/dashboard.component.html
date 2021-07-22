@@ -1,0 +1,29 @@
+<body class="container pt-5">
+  <div class="container pt-5">
+    <h3>{{title}}</h3>
+    <div>
+      <div> </div>
+      <table class="table table-bordered" style="margin-top: 10px">
+        <thead>
+          <tr>
+            <th>Id</th>
+            <th>Empresa</th>
+            <th>Ação</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let a of empresa | paginate: { itemsPerPage: contador, currentPage: pag }">
+            <td>{{a.id}}</td>
+            <td>{{a.nome}}</td>
+            <td>{{a.codigo}}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!--inclindo o controle de paginação.-->
+    <div class="text-right">
+      <pagination-controls (pageChange)="pag 
+          = $event" previousLabel="Anterior" nextLabel="Próximo"></pagination-controls>
+    </div>
+  </div>
+</body>
