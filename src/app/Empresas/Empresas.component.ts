@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Observable, Subject } from 'rxjs';
+import { interval, Observable, Subject } from 'rxjs';
 import { EmpresaService } from '../Empresa.service';
 
 @Component({
@@ -8,7 +8,7 @@ import { EmpresaService } from '../Empresa.service';
   styleUrls: ['./Empresas.component.css']
 })
 export class EmpresasComponent implements OnInit {
-
+  
 
 
   empresas$!: Observable<string>;

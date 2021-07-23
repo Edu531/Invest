@@ -1,6 +1,8 @@
 import { Component, OnInit } from '@angular/core';
-import { Observable, Subscription } from 'rxjs';
+import { Observable, Observer, Subject, Subscription } from 'rxjs';
+import { debounceTime, distinctUntilChanged, switchMap } from 'rxjs/operators';
 import { BuscaService } from '../busca.service';
+import { Empresa } from '../empresa';
 
 
 @Component({
@@ -10,8 +12,11 @@ import { BuscaService } from '../busca.service';
 })
 export class BuscaEmpresaComponent implements OnInit {
 
+    buscaService = new BuscaService
 
-    resultado$!: Promise<string[]>
+    resultado$!: Observable<any>
+    resultadoSubscription = Subscription
+    resultado:any
     
 
     title = 'Ibovespa';
@@ -19,13 +24,17 @@ export class BuscaEmpresaComponent implements OnInit {
     pag = 1;
     contador = 9;
 
-    buscaService = new BuscaService
-    resultado = this.buscaService.resultado
+    
+    
 
     constructor() { }
 
     
     ngOnInit() {
+        this.resultado$ = new Observable((observer: Observer<string>) => {setInterval(() => observer.next(this.buscaService.listaBusca), 1000);})
+        console.log(this.resultado$);
+
+        this.resultadoSubscription = this.resultado$.subscribe(resultado => this.resultado = resultado);
     }
     /* genId(){
           for(let i=0; i<this.empresa.length; i++) {
