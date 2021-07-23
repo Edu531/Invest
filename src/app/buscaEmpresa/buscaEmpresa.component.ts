@@ -1,53 +1,59 @@
 import { Component, OnInit } from '@angular/core';
-import { AppComponent } from './../app.component';
+import { Observable, Subscription } from 'rxjs';
+
 
 @Component({
-  selector: 'app-buscaEmpresa',
-  templateUrl: './buscaEmpresa.component.html',
-  styleUrls: ['./buscaEmpresa.component.css']
+    selector: 'app-buscaEmpresa',
+    templateUrl: './buscaEmpresa.component.html',
+    styleUrls: ['./buscaEmpresa.component.css']
 })
 export class BuscaEmpresaComponent implements OnInit {
 
-  constructor() { }
 
-  ngOnInit() {
-  }
-  /* genId(){
-        for(let i=0; i<this.empresa.length; i++) {
-            this.empresa[i].id = "i"
-            this.empresa.indexOf
-        }
-        return this.empresa;
-    } */
-    
+    resultado$!: Promise<string[]>
     
 
-    listaBusca:any = []
-    findAll(term:string){
-        this.listaBusca = []
-        for(var i=0; i< this.empresa.length;i++){
-            let listaNome = this.empresa[i].nome
-            let listaCodigo = this.empresa[i].codigo
-            
-            console.log(i)
-            if(listaNome.indexOf(term) !== -1){
-                this.listaBusca = this.listaBusca + " ; " + listaNome
-                console.log(listaNome)
-            }else{console.log("nada encontrado")}
-            if(listaCodigo.indexOf(term) !== -1){
-                this.listaBusca = this.listaBusca + " ; " + listaCodigo
-                console.log(listaCodigo)
-            }else{console.log("nada encontrado")}
-        }
-        this.resultado = this.listaBusca
-        console.log(this.resultado)
-    }
-    resultado = [""]
-    
     title = 'Ibovespa';
 
     pag = 1;
     contador = 9;
+
+
+    constructor() { }
+
+    
+    ngOnInit() {
+    }
+    /* genId(){
+          for(let i=0; i<this.empresa.length; i++) {
+              this.empresa[i].id = "i"
+              this.empresa.indexOf
+          }
+          return this.empresa;
+      } */
+
+    listaBusca: any = []
+    
+    findAll(term: string) {
+        this.listaBusca = []
+        for (var i = 0; i < this.empresa.length; i++) {
+            let listaNome = this.empresa[i].nome
+            let listaCodigo = this.empresa[i].codigo
+
+            console.log(i)
+            if (listaNome.indexOf(term) !== -1) {
+                this.listaBusca = this.listaBusca + " ; " + listaNome
+                console.log(listaNome)
+            } else { console.log("nada encontrado") }
+            if (listaCodigo.indexOf(term) !== -1) {
+                this.listaBusca = this.listaBusca + " ; " + listaCodigo
+                console.log(listaCodigo)
+            } else { console.log("nada encontrado") }
+        }
+        console.log(this.listaBusca)
+        this.resultado$ = this.listaBusca
+    }
+
 
     empresa = [
         {

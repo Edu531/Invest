@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { inject } from '@angular/core/testing';
+
 import { BuscaEmpresaComponent } from './buscaEmpresa/buscaEmpresa.component';
 @Component({
   selector: 'app-root',

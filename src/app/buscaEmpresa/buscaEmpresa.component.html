@@ -1,5 +1,13 @@
 <main>
-<p *ngFor="let item of resultado">
-  buscaEmpresa works! {{item}}
+<p >
+  buscaEmpresa works!
 </p>
+<hr>
+<p>
+  {{resultado$ |async}}
+</p>
+<hr>
+<!-- <p>
+{{empresa |json}}
+</p> -->
 </main>
