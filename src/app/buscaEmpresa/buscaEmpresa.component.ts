@@ -1,8 +1,10 @@
 import { Component, OnInit } from '@angular/core';
-import { Observable, Observer, Subject, Subscription } from 'rxjs';
-import { debounceTime, distinctUntilChanged, switchMap } from 'rxjs/operators';
+
+import { Observable, Subscription } from 'rxjs';
 import { BuscaService } from '../busca.service';
-import { Empresa } from '../empresa';
+import { AppComponent } from './../app.component';
+import { async } from '@angular/core/testing';
+
 
 
 @Component({
@@ -18,23 +20,23 @@ export class BuscaEmpresaComponent implements OnInit {
     resultadoSubscription = Subscription
     resultado:any
     
-
-    title = 'Ibovespa';
-
-    pag = 1;
-    contador = 9;
-
-    
-    
+    listaResultados(resultado:String) {
+        this.result = resultado
+    }
+    term = AppComponent
+    result: String = "asdf" // tentar colocar a variavel atualizada no NgFor 
 
     constructor() { }
 
     
     ngOnInit() {
-        this.resultado$ = new Observable((observer: Observer<string>) => {setInterval(() => observer.next(this.buscaService.listaBusca), 1000);})
-        console.log(this.resultado$);
+        /* this.resultado$ = new Observable((observer: Observer<string>) => {setInterval(() => observer.next(this.buscaService.listaBusca), 1000);})
 
-        this.resultadoSubscription = this.resultado$.subscribe(resultado => this.resultado = resultado);
+        this.resultado$.subscribe(val => console.log(this.buscaService.resultado))
+        let val = this.resultado$.forEach
+        console.log(val) */
+
+        this.resultado$.subscribe()
     }
     /* genId(){
           for(let i=0; i<this.empresa.length; i++) {

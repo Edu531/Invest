@@ -1,13 +1,15 @@
 <main>
-<p >
-  buscaEmpresa works!
-</p>
-<hr>
-<p>
-  <!-- ------ : {{resultado}} : --------- -->
-</p>
-<hr>
-<!-- <p>
+  <p>
+    buscaEmpresa works!
+  </p>
+  <hr>
+  <div *ngFor="let a of result">
+    <p>
+      {{a}}
+    </p>
+  </div>
+  <hr>
+  <!-- <p>
 {{empresa |json}}
 </p> -->
 </main>

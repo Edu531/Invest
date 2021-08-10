@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 
 import { BuscaService } from './busca.service';
+import { BuscaEmpresaComponent } from './buscaEmpresa/buscaEmpresa.component';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -11,11 +12,19 @@ export class AppComponent  {
   
   constructor(){}
   
-  buscaEmpresa = new BuscaService
+  buscaService = new BuscaService
+  buscaEmpresa = new BuscaEmpresaComponent
+
   
+  result:any 
+
   buscador(term:string) {
-    this.buscaEmpresa.findAll(term)
+    this.result = this.buscaService.findAll(term)
+    this.buscaEmpresa.listaResultados(this.result)
     }
+  retornresult(){
+    return this.result
+  }
 
 }
 

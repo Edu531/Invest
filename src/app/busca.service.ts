@@ -27,8 +27,12 @@ listaBusca: any = []
         }
         console.log(this.listaBusca)
         this.resultado = this.listaBusca
+        return this.resultado
     }
     resultado = []
+
+    
+    
 
     empresa = [
       {
