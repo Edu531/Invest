@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { Empresa } from './../empresa';
 import { BuscaService } from './../busca.service';
 
 @Component({
@@ -8,21 +7,17 @@ import { BuscaService } from './../busca.service';
 })
 
 export class DashboardComponent implements OnInit {
+    constructor(private buscaService: BuscaService) {}
+    
     ngOnInit() {
-    
     }
-    
+
     title = 'Ibovespa';
 
     pag = 1;
     contador = 9;
 
-    buscaService = new BuscaService
-    empresa:any = this.buscaService.genId()
+    empresa:any = this.buscaService.getListaComId()
     
-    
-
-
-
 
 }

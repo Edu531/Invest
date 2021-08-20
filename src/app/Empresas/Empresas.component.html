@@ -1,3 +1,39 @@
-<p>
-  Empresas works!
-</p>
+<body class="bg-secondary bg-gradient">
+  <main class="">
+    <section class="text-center container">
+      <!-- div principal -->
+      <div class="row container rounded-3 shadow-lg mx-auto" id="1">
+        <!-- sub-div informaçoes -->
+        <div class="col-8 border-end">
+          <h1>
+            {{title}}
+          </h1>
+          <div class="card-deck ">
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-4 g-2 mx-5">
+              <div class="card shadow-lg border-dark mb-4 border border-1  rounded-3 mx-auto">
+                <h2 class="text-center ">
+                  Compra
+                </h2>
+                <h4 class="">
+                  {{financeList.results.currencies.USD.buy}}
+                </h4>
+              </div>
+              <div class="card shadow-lg border-dark mb-4 border border-1  rounded-3 mx-auto">
+                <h2>
+                  Venda
+                </h2>
+                <h4>
+                  {{financeList.results.currencies.USD.sell}}
+                </h4>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- sub-div sujestoes cotaçoes/acoes -->
+        <div class="col-sm">
+          asdadsa
+        </div>
+      </div>
+    </section>
+  </main>
+</body>

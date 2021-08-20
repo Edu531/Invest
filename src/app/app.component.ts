@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
-import { inject } from '@angular/core/testing';
 import { BuscaEmpresaComponent } from './buscaEmpresa/buscaEmpresa.component';
+import { BuscaService } from './busca.service';
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
@@ -14,9 +14,9 @@ export class AppComponent  {
   buscaEmpresa = new BuscaEmpresaComponent
   
   buscador(term:string) {
-    this.buscaEmpresa.findAll(term)
+    this.buscaService.findAll(term)
     }
-
+    buscaService = new BuscaService
 }
 
   

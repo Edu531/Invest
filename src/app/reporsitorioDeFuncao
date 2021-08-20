@@ -1,0 +1,68 @@
+getOrganization() {
+    this.empresaService.getOrganization().subscribe(
+      data => {
+        const {results} = data;
+        console.log(results)
+      },
+      error => console.log('Error : ', error)
+    )
+
+  }
+
+------------------------------------------------------------------------------------------------------------
+
+  listaEmpresa:[] = []
+    getEmpresa(){
+        this.empresaService.getOrganization().subscribe(
+            data => {
+              this.listaEmpresa = data;
+              console.log(this.listaEmpresa)
+            },
+            error => console.log('Error Dash : ', error)
+          )
+    }
+
+-------------------------------------------------------------------------------------------------------------
+
+/** GET heroes from the server */
+  getEmpresas(): Observable<Empresa[]> {
+    return this.http.get<Empresa[]>(this.APIUrl)
+      .pipe(
+        tap(_ => ('fetched heroes')),
+        catchError(this.handleError<Empresa[]>('getHeroes', []))
+      );
+  }
+  getEmpresa(id: string): Observable<Empresa> {
+    const url = `${this.APIUrl}/${id}`;
+    return this.http.get<Empresa>(url).pipe(
+      tap(_ => (`fetched hero id=${id}`)),
+      catchError(this.handleError<Empresa>(`getHero id=${id}`))
+    );
+  }
+
+  private handleError<T>(operation = 'operation', result?: T) {
+    return (error: any): Observable<T> => {
+
+      // TODO: send the error to remote logging infrastructure
+      console.error(error); // log to console instead
+      // Let the app keep running by returning an empty result.
+      return of(result as T);
+    };
+  }
+
+  searchHeroes(term: string): Observable<Empresa[]> {
+    if (!term.trim()) {
+      // if not search term, return empty hero array.
+      return of([]);
+    }
+    return this.http.get<Empresa[]>(`${this.APIUrl}/?name=${term}`).pipe(
+      tap(x => x.length ?
+        (`found heroes matching "${term}"`) :
+        (`no heroes matching "${term}"`)),
+      catchError(this.handleError<Empresa[]>('searchHeroes', []))
+    );
+  }
+
+  ----------------------------------------------------------------------------------------------------
+
+  

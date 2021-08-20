@@ -13,18 +13,21 @@ export class BuscaService implements OnInit {
 
     empresaComId: any = []
 
+    getListaComId() {
+        this.genId()
+        return this.empresaComId
+    }
+    
     genId() {
         for (var i = 0; i < this.empresa.length; i++) {
             this.empresa[i].id = i + 1
         }
-        console.log(this.empresa)
+        // console.log(this.empresa)
         this.empresaComId = this.empresa
         return this.empresaComId
-
     }
 
     listaBusca: any = []
-
     findAll(term: string) {
         this.listaBusca = []
         for (var i = 0; i < this.empresa.length; i++) {
